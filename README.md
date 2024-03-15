@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<h1 align="center">Hi 👋, I'm Vijay Myakalwad</h1>
-<h3 align="center">A enthusiastic MERN developer and passionate competitive programmer India</h3>
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijay+Myakalwad;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
+<h3 align="center">Enthusiastic developer and passionate competitive programmer.</h3>
 <img align='right' alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 👯 I’m looking to collaborate on **open-source-projects**
